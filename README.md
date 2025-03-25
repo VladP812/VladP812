@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/vladponomarev1337/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-480963?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://t.me/calderokmok" target="_blank">
+  <a href="https://t.me/iamnotpetya" target="_blank">
      <img src="https://img.shields.io/badge/Telegram-480963?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -26,6 +26,6 @@
 <h2 align="center">⚒️ Languages, Frameworks and Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,rust,java,go,bash,python,linux,html,css" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,java,go,bash,python,linux,html,css,react,js" />
     <img src="https://skillicons.dev/icons?i=qt,flask,github,git,mongodb,mysql,sqlite,redis" /><br>
 </div>
