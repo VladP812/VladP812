@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/vladponomarev1337/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-480963?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://t.me/iamnotpetya" target="_blank">
+  <a href="https://t.me/atauavawh" target="_blank">
      <img src="https://img.shields.io/badge/Telegram-480963?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
